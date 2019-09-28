@@ -68,13 +68,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="flex-center position-ref full-height">	
 		<div class="content">
                 <div class="title m-b-md">
-                    itraffic
+                    ITRAFFIC
                 </div>
 
+
                 <div class="links">
-                    <a href="">Login</a>
+                    <a href="<?php echo base_url('UserController/logout'); ?>">Log out</a>
                     <a href="<?php echo base_url('UserController/drivers'); ?>">DRIVERS VIEW </a>
-                    <a href="">Registration</a>
+                    <a href="<?php echo base_url('UserController/vehicle_belongs_user_view'); ?>">VEHICLES VIEW</a>
+                    <a href="<?php echo base_url('UserController/get_map'); ?>">MAP</a>
                 </div>
 		</div>
 	</div>

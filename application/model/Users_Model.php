@@ -6,7 +6,22 @@ class Users_Model extends CI_Model {
     }
 
     public function getUsers(){
-        $query = $this->db->get('tbl_users');
+        $this->db->select('*');
+        $this->db->from('tbl_users');
+        $this->db->where('u_type',2);
+        $query = $this->db->get();
         return $query->result();
+    }
+
+    /**
+     * @user authentication
+     */
+    public function login_auth($username,$password){
+        $query = $this->db->query('select * from tbl_users where username="'.$username.'" and password="'.$password.'" and u_type = 1');
+        if($query->num_rows() > 0){
+            return true;
+        }else{
+            return false;   
+        }
     }
 }

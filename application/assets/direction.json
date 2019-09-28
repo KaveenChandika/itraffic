@@ -1,0 +1,1372 @@
+{
+	"geocoded_waypoints": [
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ4_9pLZxZ4joR-b7waFx9X5Q",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJeZ2jyp1Z4joRFTRaWHDGpGc",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJJ59-fp5Z4joR-9wMnHiKao4",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJk4i1BZ5Z4joRkpx62bM_z4U",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJNwLoUJ5Z4joRsJgLogbpy2I",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJib4fqp9Z4joRQriqmACK31E",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJNwLoUJ5Z4joRsJgLogbpy2I",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJib4fqp9Z4joRQriqmACK31E",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ9efISJ5Z4joRdrPXe8Up9w0",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJU4C1zaFZ4joRstSQ6b-eqQ8",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ53ju9J5Z4joRxLNHR7tXv-0",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ1WDDF5xZ4joRY4mcZZQbXo8",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJj6Hj6ptZ4joRfN8mbo3d2nM",
+			"types": [
+				"premise"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ238XOppZ4joRSNrfv5jI8UY",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJv8oxtplZ4joR5IrBi4VV5Cc",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJkTm7NZhZ4joR9yfgGWxX4Oc",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ3d2aVZhZ4joRth3WAjH3_Vg",
+			"types": [
+				"establishment",
+				"premise"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJVcFwNZ9Z4joRbyNUnQt8IwU",
+			"types": [
+				"establishment",
+				"point_of_interest"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		},
+		{
+			"geocoder_status": "OK",
+			"place_id": "ChIJ70PHdJ9Z4joRAXnTJoh1LSk",
+			"types": [
+				"street_address"
+			]
+		}
+	],
+	"routes": [
+		{
+			"bounds": {
+				"northeast": {
+					"lat": 6.9227485,
+					"lng": 79.88519670000001
+				},
+				"southwest": {
+					"lat": 6.9131889,
+					"lng": 79.87133089999999
+				}
+			},
+			"copyrights": "Map data ©2019 Google",
+			"legs": [
+				{
+					"distance": {
+						"text": "12.2 km",
+						"value": 12210
+					},
+					"duration": {
+						"text": "49 mins",
+						"value": 2951
+					},
+					"end_address": "93 Dr Danister De Silva Mawatha, Colombo, Sri Lanka",
+					"end_location": {
+						"lat": 6.919452,
+						"lng": 79.87768389999999
+					},
+					"start_address": "Sri Lanka, Colombo, D. S. 세나나야크 마와타 38 a",
+					"start_location": {
+						"lat": 6.9143237,
+						"lng": 79.8774655
+					},
+					"steps": [
+						{
+							"distance": {
+								"text": "44 m",
+								"value": 44
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 21
+							},
+							"end_location": {
+								"lat": 6.9147089,
+								"lng": 79.87752259999999
+							},
+							"html_instructions": "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eD. S. Senanayake Mawatha\u003c/b\u003e/\u003cb\u003eKanatta Rd\u003c/b\u003e/\u003cb\u003eAC7\u003c/b\u003e toward \u003cb\u003eCotta Rd\u003c/b\u003e/\u003cb\u003eGnanartha Pradeepa Mawatha\u003c/b\u003e/\u003cb\u003eMaradana Rd\u003c/b\u003e/\u003cb\u003eAC19\u003c/b\u003e/\u003cb\u003eB62\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Asian Techno Solution Cellular Services (on the left)\u003c/div\u003e",
+							"polyline": {
+								"points": "omei@eapfNK?W?_@EIC"
+							},
+							"start_location": {
+								"lat": 6.9143237,
+								"lng": 79.8774655
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.3 km",
+								"value": 324
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 88
+							},
+							"end_location": {
+								"lat": 6.915222,
+								"lng": 79.87464179999999
+							},
+							"html_instructions": "Sharp \u003cb\u003eleft\u003c/b\u003e at WSP Phone Shop onto \u003cb\u003eWard Pl\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Dasa Bldg (on the right)\u003c/div\u003e",
+							"maneuver": "turn-sharp-left",
+							"polyline": {
+								"points": "}oei@oapfN@f@KjAa@rCIt@Kz@OpAMfAEj@"
+							},
+							"start_location": {
+								"lat": 6.9147089,
+								"lng": 79.87752259999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 245
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 57
+							},
+							"end_location": {
+								"lat": 6.9132036,
+								"lng": 79.87516479999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKynsey Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Media Factory Pvt. Limited. (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "csei@ooofNDH@B@B@BB@DBNC\\G\\IlCm@XKj@O|Ac@"
+							},
+							"start_location": {
+								"lat": 6.915222,
+								"lng": 79.87464179999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 192
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 62
+							},
+							"end_location": {
+								"lat": 6.9131889,
+								"lng": 79.8769028
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Dms Software Technologies (Pvt) Ltd onto \u003cb\u003eAustin Pl\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by MullenLowe Sri Lanka (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "ofei@wrofNAyE?U@_A@k@"
+							},
+							"start_location": {
+								"lat": 6.9132036,
+								"lng": 79.87516479999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.1 km",
+								"value": 98
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 45
+							},
+							"end_location": {
+								"lat": 6.913599,
+								"lng": 79.8774567
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Thripitaka Sadaham Poth Medura toward \u003cb\u003eD. S. Senanayake Mawatha\u003c/b\u003e/\u003cb\u003eKanatta Rd\u003c/b\u003e/\u003cb\u003eAC7\u003c/b\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "mfei@s}ofNMAG?ECA?GCGAIAGAMAA?AAAA?A?C?S?e@@Y"
+							},
+							"start_location": {
+								"lat": 6.9131889,
+								"lng": 79.8769028
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.1 km",
+								"value": 124
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 68
+							},
+							"end_location": {
+								"lat": 6.9147089,
+								"lng": 79.87752259999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Albert Edirisinghe Opticians onto \u003cb\u003eD. S. Senanayake Mawatha\u003c/b\u003e/\u003cb\u003eKanatta Rd\u003c/b\u003e/\u003cb\u003eAC7\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ganesha jewellery (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "_iei@capfN{CAW?_@EIC"
+							},
+							"start_location": {
+								"lat": 6.913599,
+								"lng": 79.8774567
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.3 km",
+								"value": 299
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 78
+							},
+							"end_location": {
+								"lat": 6.915188,
+								"lng": 79.87486059999999
+							},
+							"html_instructions": "Sharp \u003cb\u003eleft\u003c/b\u003e at WSP Phone Shop onto \u003cb\u003eWard Pl\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Dasa Bldg (on the right)\u003c/div\u003e",
+							"maneuver": "turn-sharp-left",
+							"polyline": {
+								"points": "}oei@oapfN@f@KjAa@rCIt@Kz@OpAMfA"
+							},
+							"start_location": {
+								"lat": 6.9147089,
+								"lng": 79.87752259999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.4 km",
+								"value": 424
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 124
+							},
+							"end_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e at Alliance finance 98 Bldg onto \u003cb\u003eBorella Cross Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Kaluthota Investment Services and Finance Kollupitya (on the left)\u003c/div\u003e",
+							"maneuver": "turn-right",
+							"polyline": {
+								"points": "}rei@{pofNKCgAOgBSGCCC][eAeAIMIOEMAMAKOsI"
+							},
+							"start_location": {
+								"lat": 6.915188,
+								"lng": 79.87486059999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.6 km",
+								"value": 649
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 107
+							},
+							"end_location": {
+								"lat": 6.922746800000001,
+								"lng": 79.87772749999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Rajaya Osusala - Borella onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Lucky Sea Villa (on the right in 300&nbsp;m)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "w}ei@gbpfNqB?yBA_BCa@?eFCsFIa@?OA{CEwBH"
+							},
+							"start_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.5 km",
+								"value": 531
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 103
+							},
+							"end_location": {
+								"lat": 6.9180933,
+								"lng": 79.877736
+							},
+							"html_instructions": "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eMagazine &amp; Prison Hospital Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Prison Headquarters (on the left)\u003c/div\u003e",
+							"maneuver": "uturn-right",
+							"polyline": {
+								"points": "ebgi@ybpfN?UbAGpEHN?^?nFHT?tFF`B?"
+							},
+							"start_location": {
+								"lat": 6.922746800000001,
+								"lng": 79.87772749999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "63 m",
+								"value": 63
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 29
+							},
+							"end_location": {
+								"lat": 6.9185837,
+								"lng": 79.8776706
+							},
+							"html_instructions": "Make a \u003cb\u003eU-turn\u003c/b\u003e at Sannivedana Piyasa - Government Press",
+							"maneuver": "uturn-right",
+							"polyline": {
+								"points": "aefi@{bpfNAP_BC"
+							},
+							"start_location": {
+								"lat": 6.9180933,
+								"lng": 79.877736
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.1 km",
+								"value": 148
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 52
+							},
+							"end_location": {
+								"lat": 6.917492299999999,
+								"lng": 79.87764249999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by OPD and Clinic Bldg Complex (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "chfi@mbpfN?F?@?D@@?B@@@@@@@?D@nDDF@@?FABA@??C@A?C?Q"
+							},
+							"start_location": {
+								"lat": 6.9185837,
+								"lng": 79.8776706
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.4 km",
+								"value": 422
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 93
+							},
+							"end_location": {
+								"lat": 6.921287899999999,
+								"lng": 79.8777434
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Lucky Sea Villa (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "iafi@gbpfNyBA_BCa@?eFCsFIa@?"
+							},
+							"start_location": {
+								"lat": 6.917492299999999,
+								"lng": 79.87764249999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.7 km",
+								"value": 721
+							},
+							"duration": {
+								"text": "3 mins",
+								"value": 156
+							},
+							"end_location": {
+								"lat": 6.9212075,
+								"lng": 79.87133089999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAnanda Rajakaruna Mawatha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the stadium (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "ayfi@{bpfN?LAjBAHEJCr@@lA?ZCvACdB?j@?bBAz@?JAhB?PEvEChB@tAn@h@"
+							},
+							"start_location": {
+								"lat": 6.921287899999999,
+								"lng": 79.8777434
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.7 km",
+								"value": 690
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 137
+							},
+							"end_location": {
+								"lat": 6.9167385,
+								"lng": 79.87566199999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Nobles Studio onto \u003cb\u003eGnanartha Pradeepa Mawatha\u003c/b\u003e/\u003cb\u003eMaradana Rd\u003c/b\u003e/\u003cb\u003eAC19\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Air Trust (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "qxfi@yznfNrAkAh@e@d@e@tAqAx@y@|@{@xBwB|@}@VYjBiBn@m@XWFG|ByB"
+							},
+							"start_location": {
+								"lat": 6.9212075,
+								"lng": 79.87133089999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 222
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 57
+							},
+							"end_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Vish Enterprises and Hardware onto \u003cb\u003eBorella Cross Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ideal Marketing - IT &amp; Security Solutions (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "s|ei@{uofNIOEMAMAKOsI"
+							},
+							"start_location": {
+								"lat": 6.9167385,
+								"lng": 79.87566199999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "64 m",
+								"value": 64
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 12
+							},
+							"end_location": {
+								"lat": 6.917492299999999,
+								"lng": 79.87764249999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Rajaya Osusala - Borella onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "w}ei@gbpfNqB?"
+							},
+							"start_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.1 km",
+								"value": 148
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 26
+							},
+							"end_location": {
+								"lat": 6.9185837,
+								"lng": 79.8776706
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by OPD and Clinic Bldg Complex (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "iafi@gbpfN?P?BA@?BA?C@G@A?GAoDEEAA?AAAAAA?CAA?E?A?G"
+							},
+							"start_location": {
+								"lat": 6.917492299999999,
+								"lng": 79.87764249999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "19 m",
+								"value": 19
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 3
+							},
+							"end_location": {
+								"lat": 6.9187515,
+								"lng": 79.87767169999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "chfi@mbpfNa@?"
+							},
+							"start_location": {
+								"lat": 6.9185837,
+								"lng": 79.8776706
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.5 km",
+								"value": 503
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 137
+							},
+							"end_location": {
+								"lat": 6.918319599999999,
+								"lng": 79.8741333
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePark Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the playground (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "eifi@mbpfNiAlAy@|@yA|AEDAFAD?D?D@F@D@DJNPTLLTR^^p@fAFN\\x@FVPd@V`@jAjA"
+							},
+							"start_location": {
+								"lat": 6.9187515,
+								"lng": 79.87767169999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.1 km",
+								"value": 146
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 35
+							},
+							"end_location": {
+								"lat": 6.9173694,
+								"lng": 79.87505089999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Mag onto \u003cb\u003eGnanartha Pradeepa Mawatha\u003c/b\u003e/\u003cb\u003eMaradana Rd\u003c/b\u003e/\u003cb\u003eAC19\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by DSI Showroom Borella (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "offi@ilofNjBiBn@m@XWFG"
+							},
+							"start_location": {
+								"lat": 6.918319599999999,
+								"lng": 79.8741333
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 155
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 68
+							},
+							"end_location": {
+								"lat": 6.9175754,
+								"lng": 79.876189
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Royal Sun travels And Tours onto \u003cb\u003eEnterance from Maradana Rd to Lady Ridgeway Hospital\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "q`fi@arofNUUAAAA?A?AAA?A?A?A?A@A?A?ABEBCb@c@@C@A?A?A?A?E?IAKMu@AAAEEEe@["
+							},
+							"start_location": {
+								"lat": 6.9173694,
+								"lng": 79.87505089999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 155
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 58
+							},
+							"end_location": {
+								"lat": 6.9173694,
+								"lng": 79.87505089999999
+							},
+							"html_instructions": "Make a \u003cb\u003eU-turn\u003c/b\u003e at LRH Orthodontic Unit\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+							"maneuver": "uturn-right",
+							"polyline": {
+								"points": "{afi@eyofNd@ZDD@D@@Lt@@J?H?D?@?@?@A@ABc@b@CBCD?@?@A@?@?@?@?@@@?@?@@@@@TT"
+							},
+							"start_location": {
+								"lat": 6.9175754,
+								"lng": 79.876189
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.1 km",
+								"value": 97
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 35
+							},
+							"end_location": {
+								"lat": 6.9167385,
+								"lng": 79.87566199999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Royal Sun travels And Tours onto \u003cb\u003eGnanartha Pradeepa Mawatha\u003c/b\u003e/\u003cb\u003eMaradana Rd\u003c/b\u003e/\u003cb\u003eAC19\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Peoples Bank ATM (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "q`fi@arofN|ByB"
+							},
+							"start_location": {
+								"lat": 6.9173694,
+								"lng": 79.87505089999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 222
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 57
+							},
+							"end_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Vish Enterprises and Hardware onto \u003cb\u003eBorella Cross Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ideal Marketing - IT &amp; Security Solutions (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "s|ei@{uofNIOEMAMAKOsI"
+							},
+							"start_location": {
+								"lat": 6.9167385,
+								"lng": 79.87566199999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 204
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 32
+							},
+							"end_location": {
+								"lat": 6.9187515,
+								"lng": 79.87767169999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Rajaya Osusala - Borella onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "w}ei@gbpfNqB?yBA_BCa@?"
+							},
+							"start_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.5 km",
+								"value": 503
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 137
+							},
+							"end_location": {
+								"lat": 6.918319599999999,
+								"lng": 79.8741333
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePark Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by the playground (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "eifi@mbpfNiAlAy@|@yA|AEDAFAD?D?D@F@D@DJNPTLLTR^^p@fAFN\\x@FVPd@V`@jAjA"
+							},
+							"start_location": {
+								"lat": 6.9187515,
+								"lng": 79.87767169999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 244
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 62
+							},
+							"end_location": {
+								"lat": 6.9167385,
+								"lng": 79.87566199999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Mag onto \u003cb\u003eGnanartha Pradeepa Mawatha\u003c/b\u003e/\u003cb\u003eMaradana Rd\u003c/b\u003e/\u003cb\u003eAC19\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by DSI Showroom Borella (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "offi@ilofNjBiBn@m@XWFG|ByB"
+							},
+							"start_location": {
+								"lat": 6.918319599999999,
+								"lng": 79.8741333
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 222
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 57
+							},
+							"end_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Vish Enterprises and Hardware onto \u003cb\u003eBorella Cross Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Ideal Marketing - IT &amp; Security Solutions (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "s|ei@{uofNIOEMAMAKOsI"
+							},
+							"start_location": {
+								"lat": 6.9167385,
+								"lng": 79.87566199999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.6 km",
+								"value": 649
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 107
+							},
+							"end_location": {
+								"lat": 6.922746800000001,
+								"lng": 79.87772749999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Rajaya Osusala - Borella onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Lucky Sea Villa (on the right in 300&nbsp;m)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "w}ei@gbpfNqB?yBA_BCa@?eFCsFIa@?OA{CEwBH"
+							},
+							"start_location": {
+								"lat": 6.9169168,
+								"lng": 79.87764489999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.9 km",
+								"value": 889
+							},
+							"duration": {
+								"text": "3 mins",
+								"value": 206
+							},
+							"end_location": {
+								"lat": 6.9148675,
+								"lng": 79.87768129999999
+							},
+							"html_instructions": "Make a \u003cb\u003eU-turn\u003c/b\u003e at \u003cb\u003eMagazine &amp; Prison Hospital Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Prison Headquarters (on the left)\u003c/div\u003e",
+							"maneuver": "uturn-right",
+							"polyline": {
+								"points": "ebgi@ybpfN?UbAGpEHN?^?nFHT?tFF`B?pB@vB?dC?hFFN?X@"
+							},
+							"start_location": {
+								"lat": 6.922746800000001,
+								"lng": 79.87772749999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.7 km",
+								"value": 679
+							},
+							"duration": {
+								"text": "2 mins",
+								"value": 127
+							},
+							"end_location": {
+								"lat": 6.913650899999999,
+								"lng": 79.8835242
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Ovingo Shoe World onto \u003cb\u003eCotta Rd\u003c/b\u003e/\u003cb\u003eB62\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Borella Bodhiya බුද්ධ ප්‍රතිමාව (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "}pei@obpfNBM@CHOR[n@k@XYNSLSBKDMBIBMBOH}@TiB@MBS@QFu@@Q@Q?W@c@?M@Q@kA@kA@mABaB?[BeB@M@M@K@KBQ"
+							},
+							"start_location": {
+								"lat": 6.9148675,
+								"lng": 79.87768129999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 191
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 60
+							},
+							"end_location": {
+								"lat": 6.9152411,
+								"lng": 79.88417849999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Royal Cashew Outlet onto \u003cb\u003eRuhunukala Mawatha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Gulf Approved Medical Centres Association (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "iiei@_gqfNeBi@gCo@oAi@"
+							},
+							"start_location": {
+								"lat": 6.913650899999999,
+								"lng": 79.8835242
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.3 km",
+								"value": 326
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 77
+							},
+							"end_location": {
+								"lat": 6.9178988,
+								"lng": 79.8842346
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Pothgul Vihara Temple onto \u003cb\u003eLeslie Ranagala Mawatha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Olympic Marine Services (Pvt) Ltd (on the right)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "gsei@ckqfNm@fAA@A@A@G@C@C?C?SGYK]K]Kg@I[CKC{AOWCQAo@C[A_AA"
+							},
+							"start_location": {
+								"lat": 6.9152411,
+								"lng": 79.88417849999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.3 km",
+								"value": 295
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 58
+							},
+							"end_location": {
+								"lat": 6.919748999999999,
+								"lng": 79.88503589999999
+							},
+							"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e at Petro Lanka Trading onto \u003cb\u003eSerpentine Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Yeager Helping Heart Sri Lanka (on the right)\u003c/div\u003e",
+							"maneuver": "turn-right",
+							"polyline": {
+								"points": "{cfi@mkqfNAq@Au@Ac@AGAIEICCECCAGCGAMCWCOAE?aA@M?{@D{BV"
+							},
+							"start_location": {
+								"lat": 6.9178988,
+								"lng": 79.8842346
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "77 m",
+								"value": 77
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 19
+							},
+							"end_location": {
+								"lat": 6.9204399,
+								"lng": 79.88497810000001
+							},
+							"html_instructions": "Continue onto \u003cb\u003eGotami Rd\u003c/b\u003e",
+							"polyline": {
+								"points": "mofi@opqfN{BJM?"
+							},
+							"start_location": {
+								"lat": 6.919748999999999,
+								"lng": 79.88503589999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 195
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 74
+							},
+							"end_location": {
+								"lat": 6.9202188,
+								"lng": 79.883229
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at Maternity &amp; Child Welfare Centre toward \u003cb\u003eSaranapala Himi Mawatha\u003c/b\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "wsfi@cpqfNHhAHfAHbAFdAD`A"
+							},
+							"start_location": {
+								"lat": 6.9204399,
+								"lng": 79.88497810000001
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 182
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 39
+							},
+							"end_location": {
+								"lat": 6.9185799,
+								"lng": 79.88324539999999
+							},
+							"html_instructions": "Turn \u003cb\u003eleft\u003c/b\u003e at MoonShadow Studio onto \u003cb\u003eSaranapala Himi Mawatha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Air Force Hospital.colombo (on the left)\u003c/div\u003e",
+							"maneuver": "turn-left",
+							"polyline": {
+								"points": "krfi@eeqfNP?hA?n@APAfAA`B@"
+							},
+							"start_location": {
+								"lat": 6.9202188,
+								"lng": 79.883229
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.7 km",
+								"value": 689
+							},
+							"duration": {
+								"text": "3 mins",
+								"value": 155
+							},
+							"end_location": {
+								"lat": 6.9180933,
+								"lng": 79.877736
+							},
+							"html_instructions": "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eLesley Ranagala Mawatha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Quantum Lighting (Pvt) Ltd (on the right)\u003c/div\u003e",
+							"maneuver": "roundabout-left",
+							"polyline": {
+								"points": "chfi@ieqfNBA@AB?B?B@@@?@@??@?@?@?@?@A??@?@A?A@A?A@AdA@bBAt@EVS~@SZQXEHg@f@GJC@ABAHAD@F?FVvAJ^HVFPHFRJVJPNTPBDFJBDJf@@nA@HNXNVBF@J@L?NA\\CfB"
+							},
+							"start_location": {
+								"lat": 6.9185799,
+								"lng": 79.88324539999999
+							},
+							"travel_mode": "DRIVING"
+						},
+						{
+							"distance": {
+								"text": "0.2 km",
+								"value": 160
+							},
+							"duration": {
+								"text": "1 min",
+								"value": 33
+							},
+							"end_location": {
+								"lat": 6.919452,
+								"lng": 79.87768389999999
+							},
+							"html_instructions": "Turn \u003cb\u003eright\u003c/b\u003e at Sannivedana Piyasa - Government Press onto \u003cb\u003eBaseline Rd\u003c/b\u003e/\u003cb\u003eDr Danister De Silva Mawatha\u003c/b\u003e/\u003cb\u003eAC5\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+							"maneuver": "turn-right",
+							"polyline": {
+								"points": "aefi@{bpfNAP_BCa@?kCA"
+							},
+							"start_location": {
+								"lat": 6.9180933,
+								"lng": 79.877736
+							},
+							"travel_mode": "DRIVING"
+						}
+					],
+					"traffic_speed_entry": [],
+					"via_waypoint": [
+						{
+							"location": {
+								"lat": 6.9136066,
+								"lng": 79.87701
+							},
+							"step_index": 4,
+							"step_interpolation": 0.4973043012449648
+						},
+						{
+							"location": {
+								"lat": 6.9147218,
+								"lng": 79.8771687
+							},
+							"step_index": 6,
+							"step_interpolation": 0.1315381845820679
+						},
+						{
+							"location": {
+								"lat": 6.9151631,
+								"lng": 79.8749885
+							},
+							"step_index": 6,
+							"step_interpolation": 0.9519584852494166
+						},
+						{
+							"location": {
+								"lat": 6.916881800000001,
+								"lng": 79.87687910000001
+							},
+							"step_index": 7,
+							"step_interpolation": 0.8003467257266187
+						},
+						{
+							"location": {
+								"lat": 6.9189278,
+								"lng": 79.87767479999999
+							},
+							"step_index": 8,
+							"step_interpolation": 0.3447444881283461
+						},
+						{
+							"location": {
+								"lat": 6.9180233,
+								"lng": 79.87750389999999
+							},
+							"step_index": 11,
+							"step_interpolation": 0.5000836285061997
+						},
+						{
+							"location": {
+								"lat": 6.9191901,
+								"lng": 79.8776793
+							},
+							"step_index": 12,
+							"step_interpolation": 0.4472378459359525
+						},
+						{
+							"location": {
+								"lat": 6.9192402,
+								"lng": 79.8776802
+							},
+							"step_index": 12,
+							"step_interpolation": 0.4604529484555094
+						},
+						{
+							"location": {
+								"lat": 6.9168812,
+								"lng": 79.87686619999999
+							},
+							"step_index": 15,
+							"step_interpolation": 0.6116912659948118
+						},
+						{
+							"location": {
+								"lat": 6.9179651,
+								"lng": 79.8775017
+							},
+							"step_index": 17,
+							"step_interpolation": 0.4561631232707938
+						},
+						{
+							"location": {
+								"lat": 6.9175754,
+								"lng": 79.876189
+							},
+							"step_index": 21,
+							"step_interpolation": 1
+						},
+						{
+							"location": {
+								"lat": 6.9189459,
+								"lng": 79.8774655
+							},
+							"step_index": 26,
+							"step_interpolation": 0.0624498928734205
+						},
+						{
+							"location": {
+								"lat": 6.9210292,
+								"lng": 79.87773369999999
+							},
+							"step_index": 29,
+							"step_interpolation": 0.7050754710688607
+						},
+						{
+							"location": {
+								"lat": 6.9186985,
+								"lng": 79.877747
+							},
+							"step_index": 30,
+							"step_interpolation": 0.5209456408371826
+						},
+						{
+							"location": {
+								"lat": 6.916134200000001,
+								"lng": 79.87772260000001
+							},
+							"step_index": 30,
+							"step_interpolation": 0.8415398718773641
+						},
+						{
+							"location": {
+								"lat": 6.9140739,
+								"lng": 79.87881689999999
+							},
+							"step_index": 31,
+							"step_interpolation": 0.2300459666850517
+						},
+						{
+							"location": {
+								"lat": 6.9137689,
+								"lng": 79.8812112
+							},
+							"step_index": 31,
+							"step_interpolation": 0.6231445419657676
+						},
+						{
+							"location": {
+								"lat": 6.9143194,
+								"lng": 79.88378500000002
+							},
+							"step_index": 32,
+							"step_interpolation": 0.4167598036402902
+						},
+						{
+							"location": {
+								"lat": 6.9168938,
+								"lng": 79.88414709999999
+							},
+							"step_index": 33,
+							"step_interpolation": 0.6554742354075215
+						},
+						{
+							"location": {
+								"lat": 6.9179217,
+								"lng": 79.88474189999999
+							},
+							"step_index": 34,
+							"step_interpolation": 0.1903031885886123
+						},
+						{
+							"location": {
+								"lat": 6.9185251,
+								"lng": 79.88227879999999
+							},
+							"step_index": 38,
+							"step_interpolation": 0.1794224767323183
+						},
+						{
+							"location": {
+								"lat": 6.9187616,
+								"lng": 79.87992149999999
+							},
+							"step_index": 38,
+							"step_interpolation": 0.6072419341097827
+						},
+						{
+							"location": {
+								"lat": 6.918476999999999,
+								"lng": 79.87766689999999
+							},
+							"step_index": 39,
+							"step_interpolation": 0.321451742436089
+						}
+					]
+				}
+			],
+			"overview_polyline": {
+				"points": "omei@eapfNc@?i@I@f@KjAk@hEo@`GJTHDl@KjDw@dA[|Ac@AyE@uA@k@MAMC[GYEA[@_AsDAi@I@f@KjAk@hE[lCMfAKCoDc@KGcBaBS]G[Q_JkFA{QQq@A{CEwBH?UbAG`FHzOP`B?AP_BC?F?F@DFD~DHLG@E?QyBAaCCyMMa@??LCtBI~@@hBG|D?nCCbEI`I@tAn@h@|BqBzBwBnHkHlEiEdCaCO]CYOsIqB??TADOB_EIEIAQa@?iAlAsCzCIXDX\\d@b@`@^^p@fAd@hAX|@V`@jAjAzCwC`@_@Y[?OFKf@k@?SSiAk@a@j@`@RhA?Rg@j@GJAF@FXZ|ByBIOG[Q_JkFAaCCcCjC_BbBCLBXLT^b@t@r@x@vAd@pAPd@V`@jAjAjBiBhAeAdCaCO]CYOsIqB?yEEgGCaMQwBH?UbAGpEHn@?dGHvIFhF@xKHDQ\\k@hAeA\\g@Pq@d@eENmBB{AFwFHqFHw@mFyAoAi@m@fACBIBG@WGw@WeAU{C[}CIGsCGSIGa@Kg@EgA@iAD{BV{BJM?HhARjCLfCzA?`AChD?HCHD@DADGDA~EYvAe@t@m@p@KLCL?LV~ATv@FPHFj@Vf@`@JPNl@BxA^p@DR@\\EdCAP_BCmDA"
+			},
+			"summary": "Baseline Rd/Dr Danister De Silva Mawatha/AC5",
+			"warnings": [],
+			"waypoint_order": []
+		}
+	],
+	"status": "OK"
+}

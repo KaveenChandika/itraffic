@@ -1,4 +1,10 @@
 <script src="http://localhost/itraffic/assets/js/main.js"></script>
+<script>
+  $(document).ready(function() { 
+      alertify.success('Loading Drivers View');
+    }
+  );
+</script>
 <div class="container" style="margin:100px">
 
     <h3><b>Drivers View</b></h3>

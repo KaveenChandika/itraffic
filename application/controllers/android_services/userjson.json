@@ -1,0 +1,37 @@
+
+{
+    "users":{
+        "u_name":"Kaveen Gunawardhane",
+        "username":"kaveen",
+        "password":"123",
+        "u_mobile":"0777484383",
+        "u_tel":"0912246712",
+        "u_address":"Galle",
+        "u_email":"ckaveen17@gmail.com",
+        "u_type":"2",
+        "v_number":"HW-4673",
+        "v_name":"NISSAN-N17",
+        "v_type":"CAR",
+        "latitude":"6.064147",
+        "longitude":"80.200326"
+    }
+}
+
+
+{
+    "users":{
+        "u_name":"Dakshika Wijesingha",
+        "username":"dakshika",
+        "password":"123",
+        "u_mobile":"710960225",
+        "u_tel":"910960225",
+        "u_address":"Matara",
+        "u_email":"dakshika@gmail.com",
+        "u_type":"2",
+        "v_number":"KR-4585",
+        "v_name":"AXIO",
+        "v_type":"CAR",
+        "latitude":"5.949288",
+        "longitude":"80.536720"
+    }
+}
